@@ -13,3 +13,7 @@ I am 23 years old, at the moment I work as a flight director for unmanned aerial
 * responsibility
 * cognition
 * tenacity
+# Skills and abilities:
+* HTML
+* CSS
+* Git/GitHub
