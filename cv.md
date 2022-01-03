@@ -17,3 +17,9 @@ I am 23 years old, at the moment I work as a flight director for unmanned aerial
 * HTML
 * CSS
 * Git/GitHub
+# Education
+Graduated from the Belarusian State Aviation Academy with a degree in traffic management.
+# Languages
+* Russian
+* Belarussian
+* English (currently A2)
